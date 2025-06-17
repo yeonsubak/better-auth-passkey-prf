@@ -92,7 +92,7 @@ web_modules/
 
 # Output of 'npm pack'
 
-*.tgz
+better-auth-*.tgz
 
 # Yarn Integrity file
 
